@@ -1,5 +1,5 @@
 # spongebob
-you can say you forked a spongebob
+i have forked a spongebob
 
 # the sponges
 ![imagen](https://github.com/borjita2019/spongebob/assets/63255187/0f8a1ccb-9b01-42a5-9610-9ce028fa6623)
